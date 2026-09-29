@@ -18,6 +18,12 @@ Stack: **React** (port 3000) · **Node.js/Express** (port 8080) · **PostgreSQL 
 
 ---
 
+## Lab 1 Part A Contributor
+
+- Kieu Anh Tuan (`katmedia0607`) — individual fork-and-PR workflow contribution
+
+---
+
 ## What You Need to Do
 
 Five compulsory tasks, one optional challenge for bonus points.
